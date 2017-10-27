@@ -147,6 +147,7 @@
     <ClInclude Include="Heapsort.h" />
     <ClInclude Include="Insertionsort.h" />
     <ClInclude Include="Mergesort.h" />
+    <ClInclude Include="Originalsort.h" />
     <ClInclude Include="Quicksort.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
@@ -156,6 +157,7 @@
     <ClCompile Include="Heapsort.cpp" />
     <ClCompile Include="Insertionsort.cpp" />
     <ClCompile Include="Mergesort.cpp" />
+    <ClCompile Include="Originalsort.cpp" />
     <ClCompile Include="Quicksort.cpp" />
     <ClCompile Include="Sorting.cpp" />
     <ClCompile Include="stdafx.cpp">
