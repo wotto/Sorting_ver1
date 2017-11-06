@@ -26,7 +26,7 @@ void original_sort(vector<int> A) {
 	}
 
 	//testing
-	for (int i = 0; i < C.size(); i++) {
+	/*for (int i = 0; i < C.size(); i++) {
 		cout << C[i] << ",";
-	}
+	}*/
 }
